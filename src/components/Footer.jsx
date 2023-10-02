@@ -18,7 +18,7 @@ export function Footer() {
                 </div>
                 <div className="flex flex-col items-center py-10 border-t border-slate-400/10 sm:flex-row-reverse sm:justify-between">
                     <div className="flex gap-x-6">
-                        <a href="https://wa.me/50497890174" className="bg-blue-600 rounded-full group" aria-label="Whatsapp" target="_blank">
+                        <a href="https://wa.me/50489233670" className="bg-blue-600 rounded-full group" aria-label="Whatsapp" target="_blank">
                             <img src={WhatsappLogo} alt="Whatsapp" unoptimized width={40} height={40} />
                         </a>
                     </div>

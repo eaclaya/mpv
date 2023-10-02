@@ -30,7 +30,7 @@ export function Hero() {
                 conexion a internet
             </p>
             <div className="flex justify-center mt-10 gap-x-6">
-                <Button href="https://wa.me/50497890174" target="_blank">
+                <Button href="https://wa.me/50489233670" target="_blank">
                     Mas Informacion
                 </Button>
             </div>

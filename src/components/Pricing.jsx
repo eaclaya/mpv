@@ -76,7 +76,7 @@ export function Pricing() {
                         name="Mensual"
                         price="L. 500"
                         description="Ideal para empresas emergentes."
-                        href="https://wa.me/50497890174"
+                        href="https://wa.me/50489233670"
                         target="_blank"
                         features={[
                             'Facturacion ilimitada',
@@ -90,7 +90,7 @@ export function Pricing() {
                         name="Mensual"
                         price="L. 400"
                         description="Ideal para medianas y grandes empresas."
-                        href="https://wa.me/50497890174"
+                        href="https://wa.me/50489233670"
                         target="_blank"
                         features={[
                             'Facturacion ilimitada',

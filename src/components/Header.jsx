@@ -87,7 +87,7 @@ export function Header() {
                         </div>
                     </div>
                     <div className="flex items-center gap-x-5 md:gap-x-8">
-                        <Button href="https://wa.me/50497890174" color="blue" target="_blank">
+                        <Button href="https://wa.me/50489233670" color="blue" target="_blank">
                             <img src={WhatsappLogo} alt="Whatsapp" unoptimized width={40} height={40} />
                         </Button>
                         <div className="-mr-1 md:hidden">
